@@ -17,9 +17,13 @@
          under the License.
 -->
 
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcordova-plugin-media-capture.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcordova-plugin-media-capture?ref=badge_large)
+
 # cordova-plugin-media-capture
 
 [![Build Status](https://travis-ci.org/apache/cordova-plugin-media-capture.svg)](https://travis-ci.org/apache/cordova-plugin-media-capture)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fcordova-plugin-media-capture.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fcordova-plugin-media-capture?ref=badge_shield)
 
 This plugin provides access to the device's audio, image, and video capture capabilities.
 
